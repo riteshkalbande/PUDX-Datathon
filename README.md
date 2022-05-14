@@ -1,0 +1,2 @@
+# PUDX-Datathon
+A datathon was organized by the Ministry of Housing and Urban Affairs in collaboration with IISC Bangalore and the Pune Smart City. The goal of the PUDX Datathon was to develop a code for air quality estimation using the provided PM2.5 sensors data installed across the city. We didn't win the competition but the experience was very useful from "data science in air quality" perspective.
